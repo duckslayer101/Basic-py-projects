@@ -37,4 +37,4 @@ user has to input one of these three characters:
     3. scissors
 '''
 
-game(input("Yor give: "))
+game(input("You give: "))
