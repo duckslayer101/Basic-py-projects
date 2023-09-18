@@ -15,7 +15,7 @@ def game(user):
     elif i=='p':
       print('Bot gives: paper')
     else:
-      print('ot gives: scissors')
+      print('Bot gives: scissors')
 
   print()
 
