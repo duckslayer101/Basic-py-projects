@@ -32,7 +32,7 @@ def generator(a):
       pass  
   return s
 
-b=input("Please give your statements: ").lower()
+message=input("Please give your statements: ").lower()
 print("Your encoded message:")
 print()
-generator(b)
+print(generator(message))
