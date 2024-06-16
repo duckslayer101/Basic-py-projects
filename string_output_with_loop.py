@@ -24,5 +24,5 @@ def into_the_loopWego(sentence):
             finaline+=i
             print(finaline)
                
-a=input("Enter your sentence: ")
+a=input("Enter your sentence: ").lower()
 into_the_loopWego(a)
